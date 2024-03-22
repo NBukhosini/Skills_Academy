@@ -1,0 +1,15 @@
+skill.Tests.About_usFixture.CheckAboutUsPage
+skill.Tests.About_usFixture.CheckaboutTheInitiativeContent
+skill.Tests.About_usFixture.CheckIntendedImpactContent
+skill.Tests.About_usFixture.CheckGetDigitalSkillContent
+skill.Tests.CoursesFixture.Courseslandingpage
+skill.Tests.CoursesFixture.SelectDigitalBasicCourse
+skill.Tests.LandingPageFixture.CheckLandingPageH1
+skill.Tests.LoginFixture.LoginWithCorrectCredentials
+skill.Tests.LoginFixture.LoginWithIncorrectUsername
+skill.Tests.LoginFixture.LoginWithIncorrectPassword
+skill.Tests.RegistrationFixture.RegisterCorrectCredentials
+skill.Tests.RegistrationFixture.Registerincorrectpassword
+skill.Tests.RegistrationFixture.RegisterincorrectEmail
+skill.Tests.Skills_PathFixture.SkillPathPagePostSurvey
+skill.Tests.Skills_PathFixture.RetakeSurvey
